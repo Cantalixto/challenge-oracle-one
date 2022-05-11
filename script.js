@@ -8,7 +8,7 @@ function codificar() {
         alert('Digite algum texto no campo abaixo');
         input.focus();
     } else {
-        // LIMPA O CAMPO TODA A VEZ QUE A FUNÇÃO É CHAMADA
+        // LIMPA O CAMPO TODA A VEZ QUE A FUNÇÃO É  CHAMADA
         document.getElementById('none').innerHTML = '';
         document.querySelector('img.icone').style.display = 'none';
     
